@@ -1,0 +1,11 @@
+node_modules
+dist
+.git
+.agents
+skills
+.env*
+!*.example
+.DS_Store
+.vercel
+deploy_zeabur.py
+render.yaml
